@@ -465,13 +465,12 @@ body{
     height: 50px;
     margin-top:100px;
 }
-.email-offer{
+.email-offer2{
     padding:10px;
     width: 500px;
-    border:none;
     outline:none;
 }
-.email-offer::placeholder{
+.email-offer2::placeholder{
     font-size: 1rem;
     color:hsla(244, 29%, 30%, 0.349);
 }
@@ -483,6 +482,7 @@ body{
     outline:none;
     cursor: pointer;
     transition:.5s;
+    margin-top:5px;
 }
 .offer-btn:hover{
     background-color: var(--ModerateCyan);
@@ -705,6 +705,6 @@ body{
     background-color: #fff;
     color:black;
 }
-.error{
+.error, .error2{
     color:red;
 }
