@@ -29,8 +29,3 @@ function myFunction2(){
 
      return isRight;
 };
-
-// error2.innerHTML = "Place input your currect email";
-// input_eml.style.backgroundColor = "rgba(255, 0, 0, 0.089)";
-// input_eml2.style.borderColor = "red";
-// isRight = false;
